@@ -1,0 +1,22 @@
+{
+  "name": "resume-server",
+  "version": "1.0.0",
+  "description": "\"Resume server for ai-resume-builder project\"",
+  "homepage": "https://github.com/workingajk/resume-server#readme",
+  "bugs": {
+    "url": "https://github.com/workingajk/resume-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workingajk/resume-server.git"
+  },
+  "author": "ajk",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}

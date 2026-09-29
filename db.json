@@ -1,0 +1,24 @@
+{
+    "resumes": [
+        {
+            "id": 1,
+            "personalInfo": {
+                "fullName": "Raju",
+                "email": "",
+                "phone": "",
+                "location": "",
+                "website": "",
+                "linkedin": ""
+            },
+            "summary": "",
+            "experience": [],
+            "education": [],
+            "skills": [],
+            "projects": [],
+            "certifications": [],
+            "languages": [],
+            "createdAt": "",
+            "updatedAt": ""
+        }
+    ]
+}
