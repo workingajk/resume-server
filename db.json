@@ -1,24 +1,8 @@
 {
     "resumes": [
-        {
-            "id": 1,
-            "personalInfo": {
-                "fullName": "Raju",
-                "email": "",
-                "phone": "",
-                "location": "",
-                "website": "",
-                "linkedin": ""
-            },
-            "summary": "",
-            "experience": [],
-            "education": [],
-            "skills": [],
-            "projects": [],
-            "certifications": [],
-            "languages": [],
-            "createdAt": "",
-            "updatedAt": ""
-        }
+        { "id": 1, "username": "demo", "location": "", "jobTitle": "" }
+    ],
+    "downloads": [
+        { "timestamp": "", "resumeImg": "", "resumeId": "", "jobRole": "" }
     ]
 }
