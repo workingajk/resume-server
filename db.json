@@ -1,6 +1,6 @@
 {
     "resumes": [
-        { "id": 1, "username": "demo", "location": "", "jobTitle": "" }
+        { "id": 1, "username": "demonstration", "location": "", "jobTitle": "" }
     ],
     "downloads": [
         { "timestamp": "", "resumeImg": "", "resumeId": "", "jobRole": "" }

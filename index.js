@@ -8,7 +8,7 @@ const middleware = jsonServer.defaults()
 server.use(middleware)
 server.use(router)
 
-server.listen(3000, ()=>{
+server.listen(3001, ()=>{
     console.log("server running at 3000");
     
 })
