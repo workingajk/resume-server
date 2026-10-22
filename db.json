@@ -1,8 +1,214 @@
 {
-    "resumes": [
-        { "id": 1, "username": "demonstration", "location": "", "jobTitle": "" }
-    ],
-    "downloads": [
-        { "timestamp": "", "resumeImg": "", "resumeId": "", "jobRole": "" }
-    ]
+  "resumes": [
+    {
+      "id": 1,
+      "username": "demonstration",
+      "location": "",
+      "jobTitle": ""
+    },
+    {
+      "title": "foo",
+      "body": "bar",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "username": "demonstration-1",
+      "location": "",
+      "jobTitle": "",
+      "id": 3
+    },
+    {
+      "name": "ajk",
+      "loc": "Manager",
+      "job": "HR Manager",
+      "mail": "workingajk@gmail.com",
+      "contact": "7896483216",
+      "git": "klajdflkj",
+      "linkedin": "laskdjflk",
+      "skills": [],
+      "degree": "laksdjf",
+      "college": "lakdsjf",
+      "gradYear": "ldskfja",
+      "summary": "",
+      "id": 4
+    },
+    {
+      "name": "aj k",
+      "loc": "Manager",
+      "job": "HR Manager",
+      "mail": "workingajk@gmail.com",
+      "contact": "7896483216",
+      "git": "klajdflkj",
+      "linkedin": "laskdjflk",
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Payroll",
+        "HR Policies",
+        "Talent Management",
+        "Onboarding",
+        "Training",
+        "Conflict Resolution",
+        "HR Analytics"
+      ],
+      "degree": "laksdjf",
+      "college": "lakdsjf",
+      "gradYear": "ldskfja",
+      "summary": "People-focused HR manager experienced in recruitment, employee relations, performance management, talent development, and HR operations.",
+      "id": 5
+    },
+    {
+      "name": "",
+      "loc": "",
+      "job": "",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "loc": "",
+      "job": "",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "loc": "",
+      "job": "",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "loc": "",
+      "job": "",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "loc": "",
+      "job": "",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "loc": "",
+      "job": "",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "loc": "",
+      "job": "",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "id": 12
+    },
+    {
+      "name": "ajk",
+      "loc": "thrissur",
+      "job": "Software Developer",
+      "mail": "ajk@gmail.ocm",
+      "contact": "7845127845",
+      "git": "github.con",
+      "linkedin": "adsjflkadslfkjs.linkedin",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "REST APIs",
+        "Debugging",
+        "Software Testing"
+      ],
+      "degree": "btech",
+      "college": "christ",
+      "gradYear": "2026",
+      "summary": "Results-driven software developer with strong experience in building reliable, scalable applications using modern programming languages and development practices.",
+      "id": 13
+    },
+    {
+      "name": "Antony Jose Kavalakatt",
+      "loc": "",
+      "job": "Mobile App Developer",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "skills": [
+        "Mobile Development",
+        "Dart",
+        "Flutter",
+        "React Native",
+        "REST APIs",
+        "Git",
+        "State Management",
+        "Push Notifications",
+        "App Deployment",
+        "Mobile UI"
+      ],
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "summary": "Mobile app developer skilled in designing and developing responsive, user-friendly applications for modern mobile platforms.",
+      "id": 14
+    }
+  ],
+  "downloads": [
+    {
+      "timestamp": "",
+      "resumeImg": "",
+      "resumeId": "",
+      "jobRole": ""
+    }
+  ]
 }
